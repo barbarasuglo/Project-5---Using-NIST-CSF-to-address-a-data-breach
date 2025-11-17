@@ -1,4 +1,4 @@
-**Description:** 
+**Description:** This project uses NIST Cyber Security Framework to address the data leak and put measures and controls in place to prevent future occurrence
 
 **Tools Used:** NIST CSF - NIST SP 800-53: AC-6
 
